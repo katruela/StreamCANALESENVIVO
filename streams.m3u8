@@ -142,3 +142,5 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 
 #EXTINF:-1 tvg-id="nasa.yt" tvg-name="NASA Live" group-title="Live", NASA Live
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="nasa.m3u8" tvg-name="NASA Public" group-title="Live", NASA Public
