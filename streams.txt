@@ -1,17 +1,20 @@
-## FORMAT: <channel name> || <channel id> || <category>
-## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
-## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
-## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
+## FORMATO: <nombre del canal> || <ID del canal> || <categoría>
+## <nombre del canal> puede ser cualquier cosa: nombre de la transmisión o del canal. Aparecerá en la EPG.
+
+## <ID del canal> se usa para asociar los datos de la EPG con la lista de reproducción M3U8, así que debe ser corto y sin espacios. Termina con '.yt' para indicar que proviene de YouTube.
+
+## <categoría> se usa para agrupar transmisiones, por lo que se recomienda algo como 'Música' o 'Noticias'.
+
 ##
-## Examples:
+## Ejemplos:
 ## Twitch:
-## CDawgVA || CDVA.tt || Gaming
+## CDawgVA || CDVA.tt || Videojuegos
 ## https://www.twitch.tv/cdawgva
 ## Dailymotion:
-## C-News || CNews.dm || News
+## C-News || CNews.dm || Noticias
 ## https://www.dailymotion.com/video/x3b68jn
 ## YouTube:
-## Sky News || SkyNews.yt || News
+## Sky News || SkyNews.yt || Noticias
 ## https://www.youtube.com/watch?v=w9uJg68CV4g
 
 El Siete TV || elsiete.yt || Argentina
@@ -20,6 +23,6 @@ https://www.youtube.com/watch?v=Vh8xmLBJtR8
 TN TV ||TN.yt || Argentina
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
-ESPN PREMIUM ||ESPN || Argentina
+ESPN PREMIUM ||pelotalibretv.su|| Argentina
 https://pelotalibretv.su/espn-premium/
 
